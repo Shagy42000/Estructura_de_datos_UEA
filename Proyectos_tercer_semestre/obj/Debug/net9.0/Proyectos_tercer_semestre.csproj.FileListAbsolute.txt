@@ -1,0 +1,14 @@
+C:\Users\algui\Documents\TSED\Proyectos_tercer_semestre\bin\Debug\net9.0\Proyectos_tercer_semestre.exe
+C:\Users\algui\Documents\TSED\Proyectos_tercer_semestre\bin\Debug\net9.0\Proyectos_tercer_semestre.deps.json
+C:\Users\algui\Documents\TSED\Proyectos_tercer_semestre\bin\Debug\net9.0\Proyectos_tercer_semestre.runtimeconfig.json
+C:\Users\algui\Documents\TSED\Proyectos_tercer_semestre\bin\Debug\net9.0\Proyectos_tercer_semestre.dll
+C:\Users\algui\Documents\TSED\Proyectos_tercer_semestre\bin\Debug\net9.0\Proyectos_tercer_semestre.pdb
+C:\Users\algui\Documents\TSED\Proyectos_tercer_semestre\obj\Debug\net9.0\Proyectos_tercer_semestre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\algui\Documents\TSED\Proyectos_tercer_semestre\obj\Debug\net9.0\Proyectos_tercer_semestre.AssemblyInfoInputs.cache
+C:\Users\algui\Documents\TSED\Proyectos_tercer_semestre\obj\Debug\net9.0\Proyectos_tercer_semestre.AssemblyInfo.cs
+C:\Users\algui\Documents\TSED\Proyectos_tercer_semestre\obj\Debug\net9.0\Proyectos_tercer_semestre.csproj.CoreCompileInputs.cache
+C:\Users\algui\Documents\TSED\Proyectos_tercer_semestre\obj\Debug\net9.0\Proyectos_tercer_semestre.dll
+C:\Users\algui\Documents\TSED\Proyectos_tercer_semestre\obj\Debug\net9.0\refint\Proyectos_tercer_semestre.dll
+C:\Users\algui\Documents\TSED\Proyectos_tercer_semestre\obj\Debug\net9.0\Proyectos_tercer_semestre.pdb
+C:\Users\algui\Documents\TSED\Proyectos_tercer_semestre\obj\Debug\net9.0\Proyectos_tercer_semestre.genruntimeconfig.cache
+C:\Users\algui\Documents\TSED\Proyectos_tercer_semestre\obj\Debug\net9.0\ref\Proyectos_tercer_semestre.dll
