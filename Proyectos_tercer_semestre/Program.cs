@@ -35,7 +35,7 @@ public class Rectangulo
         this.ancho = ancho;
         this.alto = alto;
     }
-
+    
     // CalcularArea devuelve el área del rectángulo
     public double CalcularArea()
     {

@@ -1,0 +1,15 @@
+C:\Users\algui\Documents\TSED\Practico_experimental\Practico_experimental\bin\Debug\net9.0\Practico_experimental.exe
+C:\Users\algui\Documents\TSED\Practico_experimental\Practico_experimental\bin\Debug\net9.0\Practico_experimental.deps.json
+C:\Users\algui\Documents\TSED\Practico_experimental\Practico_experimental\bin\Debug\net9.0\Practico_experimental.runtimeconfig.json
+C:\Users\algui\Documents\TSED\Practico_experimental\Practico_experimental\bin\Debug\net9.0\Practico_experimental.dll
+C:\Users\algui\Documents\TSED\Practico_experimental\Practico_experimental\bin\Debug\net9.0\Practico_experimental.pdb
+C:\Users\algui\Documents\TSED\Practico_experimental\Practico_experimental\obj\Debug\net9.0\Practico_experimental.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\algui\Documents\TSED\Practico_experimental\Practico_experimental\obj\Debug\net9.0\Practico_experimental.AssemblyInfoInputs.cache
+C:\Users\algui\Documents\TSED\Practico_experimental\Practico_experimental\obj\Debug\net9.0\Practico_experimental.AssemblyInfo.cs
+C:\Users\algui\Documents\TSED\Practico_experimental\Practico_experimental\obj\Debug\net9.0\Practico_experimental.csproj.CoreCompileInputs.cache
+C:\Users\algui\Documents\TSED\Practico_experimental\Practico_experimental\obj\Debug\net9.0\Practico_experimental.sourcelink.json
+C:\Users\algui\Documents\TSED\Practico_experimental\Practico_experimental\obj\Debug\net9.0\Practico_experimental.dll
+C:\Users\algui\Documents\TSED\Practico_experimental\Practico_experimental\obj\Debug\net9.0\refint\Practico_experimental.dll
+C:\Users\algui\Documents\TSED\Practico_experimental\Practico_experimental\obj\Debug\net9.0\Practico_experimental.pdb
+C:\Users\algui\Documents\TSED\Practico_experimental\Practico_experimental\obj\Debug\net9.0\Practico_experimental.genruntimeconfig.cache
+C:\Users\algui\Documents\TSED\Practico_experimental\Practico_experimental\obj\Debug\net9.0\ref\Practico_experimental.dll
