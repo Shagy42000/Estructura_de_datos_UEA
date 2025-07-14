@@ -1,0 +1,29 @@
+/home/runner/CSharp/bin/Debug/netcoreapp7.0/main
+/home/runner/CSharp/bin/Debug/netcoreapp7.0/main.deps.json
+/home/runner/CSharp/bin/Debug/netcoreapp7.0/main.runtimeconfig.json
+/home/runner/CSharp/bin/Debug/netcoreapp7.0/main.dll
+/home/runner/CSharp/bin/Debug/netcoreapp7.0/main.pdb
+/home/runner/CSharp/obj/Debug/netcoreapp7.0/main.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/CSharp/obj/Debug/netcoreapp7.0/main.AssemblyInfoInputs.cache
+/home/runner/CSharp/obj/Debug/netcoreapp7.0/main.AssemblyInfo.cs
+/home/runner/CSharp/obj/Debug/netcoreapp7.0/main.csproj.CoreCompileInputs.cache
+/home/runner/CSharp/obj/Debug/netcoreapp7.0/main.dll
+/home/runner/CSharp/obj/Debug/netcoreapp7.0/refint/main.dll
+/home/runner/CSharp/obj/Debug/netcoreapp7.0/main.pdb
+/home/runner/CSharp/obj/Debug/netcoreapp7.0/main.genruntimeconfig.cache
+/home/runner/CSharp/obj/Debug/netcoreapp7.0/ref/main.dll
+C:\Users\algui\Documents\TSED\Tarea_semana7\Verificación de paréntesis balanceados en una expresión matemática\bin\Debug\netcoreapp7.0\main.exe
+C:\Users\algui\Documents\TSED\Tarea_semana7\Verificación de paréntesis balanceados en una expresión matemática\bin\Debug\netcoreapp7.0\main.deps.json
+C:\Users\algui\Documents\TSED\Tarea_semana7\Verificación de paréntesis balanceados en una expresión matemática\bin\Debug\netcoreapp7.0\main.runtimeconfig.json
+C:\Users\algui\Documents\TSED\Tarea_semana7\Verificación de paréntesis balanceados en una expresión matemática\bin\Debug\netcoreapp7.0\main.dll
+C:\Users\algui\Documents\TSED\Tarea_semana7\Verificación de paréntesis balanceados en una expresión matemática\bin\Debug\netcoreapp7.0\main.pdb
+C:\Users\algui\Documents\TSED\Tarea_semana7\Verificación de paréntesis balanceados en una expresión matemática\obj\Debug\netcoreapp7.0\main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\algui\Documents\TSED\Tarea_semana7\Verificación de paréntesis balanceados en una expresión matemática\obj\Debug\netcoreapp7.0\main.AssemblyInfoInputs.cache
+C:\Users\algui\Documents\TSED\Tarea_semana7\Verificación de paréntesis balanceados en una expresión matemática\obj\Debug\netcoreapp7.0\main.AssemblyInfo.cs
+C:\Users\algui\Documents\TSED\Tarea_semana7\Verificación de paréntesis balanceados en una expresión matemática\obj\Debug\netcoreapp7.0\main.csproj.CoreCompileInputs.cache
+C:\Users\algui\Documents\TSED\Tarea_semana7\Verificación de paréntesis balanceados en una expresión matemática\obj\Debug\netcoreapp7.0\main.sourcelink.json
+C:\Users\algui\Documents\TSED\Tarea_semana7\Verificación de paréntesis balanceados en una expresión matemática\obj\Debug\netcoreapp7.0\main.dll
+C:\Users\algui\Documents\TSED\Tarea_semana7\Verificación de paréntesis balanceados en una expresión matemática\obj\Debug\netcoreapp7.0\refint\main.dll
+C:\Users\algui\Documents\TSED\Tarea_semana7\Verificación de paréntesis balanceados en una expresión matemática\obj\Debug\netcoreapp7.0\main.pdb
+C:\Users\algui\Documents\TSED\Tarea_semana7\Verificación de paréntesis balanceados en una expresión matemática\obj\Debug\netcoreapp7.0\main.genruntimeconfig.cache
+C:\Users\algui\Documents\TSED\Tarea_semana7\Verificación de paréntesis balanceados en una expresión matemática\obj\Debug\netcoreapp7.0\ref\main.dll
