@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Z8Jie25tki8tI3XF4QPJOk9SkYr7j1pcsa2tNtrNqXGWVKwcPKYiImtSjsrjOS6VvqKRr0eUZbC+N21T/YAB5w==",
+  "dgSpecHash": "0m9on53K6kE=",
   "success": true,
-  "projectFilePath": "/home/runner/workspace/main.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\algui\\Documents\\TSED\\Practico_experimental2\\Asignacion_de_asientos\\main.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\algui\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\algui\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\algui\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\algui\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.20\\microsoft.netcore.app.host.win-x64.7.0.20.nupkg.sha512"
+  ],
   "logs": []
 }
