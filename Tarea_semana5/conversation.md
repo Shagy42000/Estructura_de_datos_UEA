@@ -1,1 +1,0 @@
-El usuario quiere todos los ejercicios escritos en C#, con comentarios explicativos, en un proyecto Replit. Se ha solicitado la creación de un nuevo Replit con todos los archivos ya comentados.
